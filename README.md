@@ -1,6 +1,4 @@
 # Landing-Page
-<<<<<<< HEAD
-
 This is my third project encapsulating my newfound knowledge of flexbox, and its use in creating unique web pages. 
 
 For this task I created a landing page themed around automobile news solely through flexbox layout. 
@@ -14,4 +12,3 @@ Do note that the page layout is unable to collapse appropriately when minimizing
  live link https://codinaiy.github.io/Landing-Page/
 
 Note to future self apply proper flex so elements collapse correctly
->>>>>>> 6aea6945c969a3ba639f6d6af4cf2273e02c487d
